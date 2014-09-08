@@ -1,7 +1,4 @@
 body {
-  border-style: dashed dashed none;
-  border-width: 1px;
-  border-color: black;
   font-family:'PT Sans', sans-serif;
   color: #333;
   font-size: 15px;
@@ -86,4 +83,12 @@ p {
 }
 .no-bg-color-row {
   padding: 10px;
+}
+.slider {
+  height: 800px;
+  margin-top: 12px;
+  padding-top: 0px;
+}
+.slider-size {
+  height: 667px;
 }
