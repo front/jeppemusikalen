@@ -57,9 +57,9 @@ p {
   top: 0px;
   bottom: 0px;
   display: inline-block;
-  width: 100%;
+  width: 200px;
   height: 46px;
-  margin: 25px 0px 4px;
+  margin: 25px 0px 4px 58px;
   padding: 12px 15px 4px;
   float: none;
   clear: none;
@@ -75,6 +75,15 @@ p {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
+}
+.button:hover {
+  border-radius: 4px;
+  background-color: #659f2b;
+  background-image: none;
+  background-position: 0% 0%;
+  background-size: auto;
+  background-repeat: repeat;
+  background-attachment: scroll;
 }
 .social-btn {
   margin-top: 10px;
